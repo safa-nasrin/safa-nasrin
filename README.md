@@ -23,7 +23,7 @@
 </div>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-Robotics%20%26%20Computer%20Vision-blueviolet?style=for-the-badge&logo=robot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Focus-Robotics%20%26%20Machine%20Learning-blueviolet?style=for-the-badge&logo=robot&logoColor=white" />
   <img src="https://img.shields.io/badge/Location-Mangalore%2C%20India-red?style=for-the-badge&logo=googlemaps&logoColor=white" />
   <img src="https://img.shields.io/badge/Status-Open%20To%20Collaborate-green?style=for-the-badge" />
 </p>
