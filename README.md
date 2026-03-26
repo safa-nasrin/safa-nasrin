@@ -1,118 +1,96 @@
-# Hi 👋 I'm Safa Nasrin
+# <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Safa%20Nasrin&fontSize=80&animation=fadeIn&fontAlignY=35" /> </p>
 
-🎓 BCA Student – AI, Machine Learning & Robotics  
-📍 Yenepoya University, Mangalore  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=AI%20%7C%20ML%20%7C%20Robotics%20Enthusiast;Building%20Intelligent%20Systems;Exploring%20Computer%20Vision%20and%20Automation&center=true&width=500&height=45&color=39FF14">
+</p>
 
-Building intelligent systems at the intersection of **Robotics and Machine Learning**.
-
----
-
-## 💼 Internship Experience
-
-### Full Stack Development Intern  
-**Zephyr Technologies (4 Months)**  
-
-- Built a **Food Delivery Web Application** using MERN Stack  
-- Worked with HTML, CSS, JavaScript  
-- Developed backend APIs and database integration  
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,cpp,c,js,html,css,mongodb,express,react,nodejs,tensorflow,pytorch,opencv,arduino,raspberrypi,ros,linux" />
+  </a>
+</p>
 
 ---
 
-### AI, ML & Robotics Intern  
-**Technical Career Education (TCE)**  
-
-- Working on a **Vision-Based Pick & Place Robot**  
-- Using **ROS2, MoveIt2, Gazebo, Isaac Sim, OpenCV**  
-- Simulation and real-world robotic control  
+## 🚀 About Me
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%">
+        🎓 <b>BCA Student</b> @ Yenepoya University<br>
+        📍 <b>Location:</b> Mangalore, India<br>
+        🤖 <b>Focus:</b> Robotics & Computer Vision<br>
+        🌱 <b>Currently:</b> Advanced ML & Automation
+      </td>
+      <td width="50%">
+        🏆 <b>SIH Participant</b> (Breed Recognition)<br>
+        🥈 <b>1st Runner-Up</b> (National Level Hackathon)<br>
+        💼 <b>Intern:</b> TCE (Robotics) & Zephyr (Full Stack)<br>
+        ⭐ <b>Motto:</b> Always learning, building, exploring.
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
-## 🚀 Projects
+## 🛠 Projects Portfolio
 
 ### 🤖 Robotics & Control
+<details open>
+<summary><b>View Robotics Projects</b></summary>
+<br>
 
-**Human Following Robot**  
-Python, YOLOv8, Raspberry Pi 4, L298N  
-- Real-time human tracking  
-- Autonomous motor control  
-- Distance & orientation maintenance  
-
-**Autonomous Obstacle Avoidance (Dual-Platform)**  
-
-**Arduino:**  
-- 3 Ultrasonic Sensors  
-- 180° spatial awareness  
-- Real-time interrupt logic (C++)  
-
-**Raspberry Pi:**  
-- Servo-mounted scanning  
-- Dynamic path planning  
-- Python implementation  
-
-**Collision Avoidance System**  
-Arduino, Ultrasonic Sensors, C++  
-- Multi-sensor fusion  
-- Safety-first navigation  
-- Real-time obstacle detection  
-
----
+- 🤖 **Human Following Robot** | `Python`, `YOLOv8`, `RPi 4`, `L298N`
+  - Real-time tracking • Autonomous motor control • Distance maintenance.
+- 🚧 **Autonomous Obstacle Avoidance (Dual-Platform)**
+  - **Arduino:** 3x Ultrasonic • 180° Awareness • Interrupt logic.
+  - **Raspberry Pi:** Servo scanning • Dynamic path planning • Python.
+- 🛡️ **Collision Avoidance System** | `Arduino`, `Ultrasonic`, `C++`
+  - Multi-sensor fusion • Safety-first navigation • Real-time detection.
+</details>
 
 ### 🧠 Machine Learning & Vision
+<details open>
+<summary><b>View ML & CV Projects</b></summary>
+<br>
 
-**Cattle & Buffalo Breed Recognition**  
-EfficientNetV2-S, TensorFlow, OpenCV  
-- Deep learning classification  
-- Real-time inference  
-- Smart India Hackathon project  
-
-**Advanced Object Detection**  
-YOLOv11, YOLOv8, PyTorch  
-- Architecture benchmarking  
-- Performance evaluation  
-- Complex environment tracking  
+- 🐄 **Cattle & Buffalo Breed Recognition** | `EfficientNetV2-S`, `TensorFlow`
+  - Deep learning classification • Real-time inference • SIH Project.
+- 👁️ **Advanced Object Detection** | `YOLOv11`, `YOLOv8`, `PyTorch`
+  - Architecture benchmarking • Performance evaluation • Complex tracking.
+</details>
 
 ---
 
-## 🏆 Hackathons
+## 🏆 Hackathons & Experience
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=safa-nasrin&repo=Cattle-Breed-Recognition&theme=radical&show_owner=true" />
+</p>
 
-- Smart India Hackathon (SIH) – Cattle & Buffalo Breed Recognition  
-- 🥈 1st Runner-Up (National Level) – Department Digital Resource & Knowledge Hub  
-- Internal Hackathon – Blood Type Identification  
-- Yenepoya Hackathon – Robotics & Automation  
-
----
-
-## 🛠 Tech Stack
-
-### 💻 Programming & Web
-Python • C • C++ • JavaScript • HTML • CSS • MERN Stack  
-
-### 🤖 AI, ML & Vision
-Machine Learning • Deep Learning • TensorFlow • PyTorch • OpenCV • YOLO  
-
-### ⚙️ Robotics & Simulation
-ROS2 • MoveIt2 • Gazebo • Isaac Sim  
-
-### 🔌 Hardware & IoT
-Raspberry Pi 4 • Arduino Uno • NodeMCU ESP8266 • L298N  
+- 🏁 **Smart India Hackathon (SIH)** – Cattle & Buffalo Breed Recognition
+- 🥈 **1st Runner-Up (National)** – Dept. Digital Resource & Knowledge Hub
+- 🩸 **Internal Hackathon** – Blood Type Identification
+- 🦾 **Yenepoya Hackathon** – Robotics & Automation
 
 ---
 
-## 🌱 Currently Learning
-Advanced Machine Learning • Computer Vision • Robotics Automation  
+## 📊 Performance & Stats
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=safa-nasrin&show_icons=true&theme=tokyonight&count_private=true" width="400" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=safa-nasrin&theme=tokyonight" width="400" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=safa-nasrin&theme=tokyonight" width="800" />
+</p>
 
 ---
 
-## 🤝 Soft Skills
-Confidence • Dedication • Communication • Problem Solving  
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=100&section=footer&text=Let's%20Connect!&fontSize=40&animation=fadeIn" />
+</p>
 
----
-
-## 📊 GitHub Stats
-
-![Safa's GitHub stats](https://github-readme-stats.vercel.app/api?username=safa-nasrin&show_icons=true)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=safa-nasrin)
-
----
-
-⭐ Always learning, building, and exploring new possibilities in **AI and Robotics**.
+<p align="center">
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
