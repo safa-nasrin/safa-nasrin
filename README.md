@@ -1,4 +1,4 @@
-# <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Safa%20Nasrin&fontSize=80&animation=fadeIn&fontAlignY=35" /> </p>
+# <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0A192F&height=250&section=header&text=Safa%20Nasrin&fontColor=ffffff&fontSize=80&animation=fadeIn&fontAlignY=35" /> </p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=AI%20%7C%20ML%20%7C%20Robotics%20Enthusiast;Building%20Intelligent%20Systems;Exploring%20Computer%20Vision%20and%20Automation&center=true&width=500&height=45&color=39FF14">
