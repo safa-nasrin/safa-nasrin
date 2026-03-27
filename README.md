@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,cpp,c,js,html,css,mongodb,express,react,nodejs,tensorflow,pytorch,opencv,arduino,raspberrypi,ros,MoveIt2,linux" />
+    <img src="https://skillicons.dev/icons?i=py,cpp,c,js,html,css,mongodb,express,react,nodejs,tensorflow,pytorch,opencv,arduino,raspberrypi,ros,linux" />
   </a>
 </p>
 
@@ -17,13 +17,14 @@
 <div align="center">
   <blockquote style="border-radius: 15px; padding: 20px; background: rgba(255, 255, 255, 0.05); border: 1px solid rgba(255, 255, 255, 0.2); box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);">
     <p align="center">
-      <b>BCA student and aspiring AI & Robotics Developer</b> with experience building and programming automation devices. I have participated in multiple <b>IoT, AI, and Machine Learning</b> workshops and hackathons to gain practical skills and collaboration experience. Having also worked as a <b>Full Stack Development Intern</b>, I enjoy building everything from web applications to complex backend systems. I am passionate about developing innovative AI and robotics solutions for real-world impact.
+      Aspiring <b>AI & Robotics Developer</b> and BCA student with hands-on experience in <b>Computer Vision, Machine Learning, and Full-Stack Development</b>. Passionate about building intelligent automation systems and scalable solutions for real-world impact.
     </p>
   </blockquote>
 </div>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Focus-Robotics%20%26%20Machine%20Learning-blueviolet?style=for-the-badge&logo=robot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Core%20Framework-ROS2%20%2B%20MoveIt2-FF8000?style=for-the-badge&logo=ros&logoColor=white" />
   <img src="https://img.shields.io/badge/Location-Mangalore%2C%20India-red?style=for-the-badge&logo=googlemaps&logoColor=white" />
   <img src="https://img.shields.io/badge/Status-Open%20To%20Collaborate-green?style=for-the-badge" />
 </p>
@@ -32,13 +33,11 @@
 
 ## 💼 Experience
 
-### 🦾 AI, ML & Robotics Intern
-**Technical Career Education (TCE)**
-* Vision-Based Pick & Place Robot • ROS2 • MoveIt2 • Gazebo • Isaac Sim • OpenCV.
+### 🦾 AI, ML & Robotics Intern | Technical Career Education (TCE)
+* Vision-Based Pick & Place Robot • ROS2 • MoveIt2 • Gazebo • Isaac Sim.
 
-### 🌐 Full Stack Development Intern
-**Zephyr Technologies**
-* MERN Stack Food Delivery App • Backend APIs • Database Integration.
+### 🌐 Full Stack Development Intern | Zephyr Technologies
+* MERN Stack Food Delivery Web App • Backend APIs • Database Integration.
 
 ---
 
@@ -49,13 +48,12 @@
 <summary><b>Click to expand Robotics Projects</b></summary>
 <br>
 
-* 🤖 **Human Following Robot** | `Python`, `YOLOv8`, `RPi 4`, `L298N`
-  * Real-time human tracking • Autonomous motor control • Distance & orientation maintenance.
-* 🚧 **Autonomous Obstacle Avoidance (Dual-Platform)**
-  * **Arduino:** 3x Ultrasonic Sensors • 180° awareness • Real-time interrupt logic (C++).
-  * **Raspberry Pi:** Servo-mounted scanning • Dynamic path planning • Python.
-* 🛡️ **Collision Avoidance System** | `Arduino`, `Ultrasonic Sensors`, `C++`
-  * Multi-sensor fusion • Safety-first navigation • Real-time obstacle detection.
+* 🤖 **Human Following Robot** | `Python`, `YOLOv8`, `RPi 4`
+  * Real-time tracking • Autonomous motor control.
+* 🚧 **Autonomous Obstacle Avoidance** * **Arduino:** 180° sensor fusion & interrupt logic (C++).
+  * **Raspberry Pi:** Dynamic path planning & scanning (Python).
+* 🛡️ **Collision Avoidance System** | `Arduino`, `Ultrasonic`
+  * Multi-sensor fusion • Real-time object detection.
 </details>
 
 ### 🧠 Machine Learning & Vision
@@ -63,10 +61,14 @@
 <summary><b>Click to expand ML & CV Projects</b></summary>
 <br>
 
-* 🐄 **Cattle & Buffalo Breed Recognition** | `EfficientNetV2-S`, `TensorFlow`, `OpenCV`
-  * Deep Learning classification • Real-time inference • SIH Project.
+* 📚 **Digital Resource & Knowledge Hub** | `RAG`, `Grok`, `LLM`
+  * Intelligent document retrieval • NLP • 🥈 *National Hackathon Winner*.
+* 🐄 **Cattle & Buffalo Breed Recognition** | `EfficientNetV2-S`, `TensorFlow`
+  * Real-time DL classification • *SIH Project*.
 * 👁️ **Advanced Object Detection** | `YOLOv11`, `YOLOv8`, `PyTorch`
-  * Architecture benchmarking • Performance evaluation • Complex environment tracking.
+  * Architecture benchmarking • Complex environment tracking.
+* 🩸 **Blood Type Identification** | `Random Forest`, `Scikit-Learn`
+  * Predictive classification • Feature engineering.
 </details>
 
 ---
@@ -74,9 +76,8 @@
 ## 🏆 Hackathons
 
 * 🏁 **Smart India Hackathon (SIH)** – Cattle & Buffalo Breed Recognition  
-* 🥈 **1st Runner-Up (National Level)** – Department Digital Resource & Knowledge Hub  
+* 🥈 **1st Runner-Up (National Level)** – Department Digital Resource Hub  
 * 🩸 **Internal Hackathon** – Identification of Blood Type  
-* 🦾 **Yenepoya Hackathon** – Robotics & Automation  
 
 ---
 
