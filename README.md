@@ -4,27 +4,28 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=AI%20%7C%20ML%20%7C%20Robotics%20Enthusiast;Building%20Intelligent%20Systems;Exploring%20Computer%20Vision%20and%20Automation&center=true&width=500&height=45&color=39FF14">
 </p>
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,cpp,c,js,html,css,mongodb,express,react,nodejs,tensorflow,pytorch,opencv,arduino,raspberrypi,ros,linux" />
-  </a>
-</p>
-
 ---
 
 ## 🚀 About Me
 
 <div align="center">
-  <blockquote style="border-radius: 15px; padding: 20px; background: rgba(255, 255, 255, 0.05); border: 1px solid rgba(255, 255, 255, 0.2); box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);">
-    <p align="center">
-      Aspiring <b>AI & Robotics Developer</b> and BCA student with hands-on experience in <b>Computer Vision, Machine Learning, and Full-Stack Development</b>. Passionate about building intelligent automation systems and scalable solutions for real-world impact.
-    </p>
-  </blockquote>
+  <p align="center">
+    Aspiring <b>AI & Robotics Developer</b> and BCA student with hands-on experience in <b>Computer Vision, Machine Learning, and Full-Stack Development</b>. Passionate about building intelligent automation systems and scalable solutions for real-world impact.
+  </p>
 </div>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Focus-Robotics%20%26%20Machine%20Learning-blueviolet?style=for-the-badge&logo=robot&logoColor=white" /> <img src="https://img.shields.io/badge/Location-Mangalore%2C%20India-red?style=for-the-badge&logo=googlemaps&logoColor=white" /> <img src="https://img.shields.io/badge/Status-Open%20To%20Collaborate-green?style=for-the-badge" />
 </p>
+
+<br>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,cpp,js,tensorflow,pytorch,opencv,ros,arduino,raspberrypi,react,nodejs" />
+  </a>
+</p>
+
 ---
 
 ## 💼 Experience
