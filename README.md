@@ -1,20 +1,18 @@
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=28&pause=1000&color=39FF14&center=true&vCenter=true&width=400&lines=🚀+About+Me;AI+%26+Robotics+Developer" alt="Typing SVG" />
-</div>
+# <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Safa%20Nasrin&fontSize=80&animation=fadeIn&fontAlignY=35" /> </p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=AI%20%7C%20ML%20%7C%20Robotics%20Enthusiast;Building%20Intelligent%20Systems;Exploring%20Computer%20Vision%20and%20Automation&center=true&width=500&height=45&color=39FF14">
+</p>
+
+---
+
+## 🚀 About Me
 
 <div align="center">
-  <table align="center">
-    <tr>
-      <td align="center" style="background-color: #0d1117; border: 1px solid #30363d; border-radius: 10px; padding: 25px;">
-        <p align="center" style="font-size: 16px; line-height: 1.6;">
-          Aspiring <b>AI & Robotics Developer</b> and BCA student with hands-on experience in <b>Computer Vision, Machine Learning, and Full-Stack Development</b>. Passionate about building intelligent automation systems and scalable solutions for real-world impact.
-        </p>
-      </td>
-    </tr>
-  </table>
+  <p align="center">
+    Aspiring <b>AI & Robotics Developer</b> and BCA student with hands-on experience in <b>Computer Vision, Machine Learning, and Full-Stack Development</b>. Passionate about building intelligent automation systems and scalable solutions for real-world impact.
+  </p>
 </div>
-
-<br>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Focus-Robotics%20%26%20Machine%20Learning-blueviolet?style=for-the-badge&logo=robot&logoColor=white" /> <img src="https://img.shields.io/badge/Location-Mangalore%2C%20India-red?style=for-the-badge&logo=googlemaps&logoColor=white" /> <img src="https://img.shields.io/badge/Status-Open%20To%20Collaborate-green?style=for-the-badge" />
@@ -27,6 +25,8 @@
     <img src="https://skillicons.dev/icons?i=py,cpp,js,tensorflow,pytorch,opencv,ros,arduino,raspberrypi,react,nodejs" />
   </a>
 </p>
+
+---
 
 ## 💼 Experience
 
